@@ -1,0 +1,3 @@
+[submodule "megalib"]
+	path = megalib
+	url = git@github.com:mshakhan/test.git
